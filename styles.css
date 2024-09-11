@@ -11,3 +11,7 @@ img{
 h2{
     text-align: center;
 }
+p{
+    display: flex;
+    justify-content: center;
+}
