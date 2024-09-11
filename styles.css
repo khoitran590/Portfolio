@@ -15,3 +15,17 @@ p{
     display: flex;
     justify-content: center;
 }
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%; /* Ensure full width */
+}
+
+.container h3 {
+    margin-left: 20px; /* Optional: add space between <h3> elements */
+} 
+
+.container h1 {
+    margin-right: auto; /* Keeps the h1 aligned to the left */
+}
